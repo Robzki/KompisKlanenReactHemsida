@@ -1,2 +1,0 @@
-# KompisKlanenReactHemsida
-Created with CodeSandbox
